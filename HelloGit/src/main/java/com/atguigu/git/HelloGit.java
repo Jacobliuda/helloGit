@@ -21,4 +21,8 @@ public class HelloGit {
     public void testBranch2(){
         System.out.println("Hello from branch dev2!");
     }
+    
+    public void testModifyOnGithub(){
+        System.out.println("Edit on Github.");
+    }
 }
