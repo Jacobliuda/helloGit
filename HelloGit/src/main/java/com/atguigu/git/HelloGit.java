@@ -17,4 +17,8 @@ public class HelloGit {
     public void testDev(){
         System.out.println("Code from branch dev");
     }
+
+    public void testBranch2(){
+        System.out.println("Hello from branch dev2!");
+    }
 }
